@@ -1,0 +1,1 @@
+# event-place-manager-front
